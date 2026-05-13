@@ -1,0 +1,12 @@
+﻿metric,value
+data_mode,api
+last_api_call,2026-05-13T16:00:10
+public_reservation_count,2527
+culture_event_count,3924
+record_count,6451
+age_parse_success_rate,100.0
+date_parse_success_rate,100.0
+coordinate_rate,98.0623159200124
+status_known_rate,97.44225701441637
+official_link_rate,100.0
+closed_or_full_count,4235

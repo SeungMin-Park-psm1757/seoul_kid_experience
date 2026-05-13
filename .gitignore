@@ -1,0 +1,19 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+*.key
+
+# Python cache/runtime artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+
+# Local app/browser artifacts
+.streamlit/secrets.toml
+.playwright-mcp/
+.playwright-cli/
+output/playwright/*.log
+data/cache/*.json
+data/snapshots/
