@@ -30,7 +30,7 @@
 ## 자동 테스트
 
 ```text
-python -m py_compile app.py src/*.py src/api/*.py
+python tools/compile_check.py
 결과: 통과
 
 python -m pytest -q
